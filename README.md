@@ -5,6 +5,7 @@
 - 📫 How to reach me: joaosanson01@gmail.com
 - 😄 Pronouns: he/him
 
+
 <div align="center">
   <a href="https://github.com/joaosanson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosanson&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
