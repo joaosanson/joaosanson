@@ -7,8 +7,10 @@
 
 <div align="center">
   <a href="https://github.com/joaosanson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosanson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosanson&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosanson&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosanson&layout=compact&langs_count=7&theme=algolia"/>
+   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joaosanson&theme=algolia" alt="7oSkaaa" /></p>
+
 </div>
   
 <div style="display: inline_block"><br>
