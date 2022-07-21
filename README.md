@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm João Sanson
 
-- 🐍 I’m currently learning Python
+- 🐍 I’m currently learning Python, HTML and CSS
 - 👯 I’m looking to collaborate on new projects
 - 📫 How to reach me: joaosanson01@gmail.com
 - 😄 Pronouns: he/him
