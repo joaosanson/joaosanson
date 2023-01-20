@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm João Sanson
 
-- 🐍 I’m currently learning Python, HTML and CSS
+- 👨‍💻 I’m currently learning the technologies for Front-End Development
 - 👯 I’m looking to collaborate on new projects
 - 📫 How to reach me: joaosanson01@gmail.com
-- 😄 Pronouns: he/him
 
 </div>
   
