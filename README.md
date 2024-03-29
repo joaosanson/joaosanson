@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm João Sanson
 
-- 👨‍💻 I’m currently learning the technologies for Web Development
+- 👨‍💻 I’m currently learning the technologies for back-end development
 - 👯 I’m looking to collaborate on new projects
 - 📫 How to reach me: joaosanson01@gmail.com
 
